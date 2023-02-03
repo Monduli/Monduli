@@ -9,4 +9,12 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Monduli&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-</div>
+</div>  
+
+<h3 align="center">Tools I'm Familiar With:</h3>
+<div>Languages:</div>
+<ul>Java, Python, C, C++, C#, Rust, JavaScript, SQL</ul>
+<div>Frameworks and Utilities:</div>
+<ul>Suricata, Yara, Wireshark, Nmap, Flask, Ren'Py, NIST, VMWare, IDA Pro, Kali Linux</ul>
+<div>Preferred IDEs:</div>
+<ul>Visual Studio Code, IDEA</ul>
