@@ -16,3 +16,6 @@
 <ul>Suricata, Yara, Wireshark, Nmap, Flask, Ren'Py, NIST, VMWare, IDA Pro, Kali Linux</ul>
 <div>Preferred IDEs:</div>
 <ul>Visual Studio Code, IDEA</ul>
+<div>Degrees:</div>
+<ul>Bachelor's of Science in Computer Science - Oregon State University (GPA 3.92)</ul>
+<ul>Bachelor's of Science in Criminal Justice - California State University, Sacramento</ul>
