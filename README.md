@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dan!</h1>
 <h3 align="center">Backend-focused Full Stack Developer</h3>
-<div>I've been coding for 3 years professionally in Java/Python and much longer than that (about 16 years, since I was 12) in Lua. I have some experience with C++ and like to design video games in my free time. I've worked extensively with various forensic tools and in other cybersecurity areas. I'm looking to continue my career in a place that promotes learning and has room for advancement.</div> 
+<div>I've been coding for 5 years professionally in Java/Python and much longer than that (about 16 years) in Lua. I have some experience with C++ and like to design video games in my free time. I've worked extensively with various forensic tools and in other cybersecurity areas. I'm looking to continue my career in a place that promotes learning and has room for advancement.</div> 
 <h3 align="center" style="margin: 5px 10px;">GitHub Info</h3> 
 
 <p align="center">
