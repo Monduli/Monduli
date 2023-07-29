@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dan!</h1>
-<h3 align="center">5 Years Python, 1 Year Java, Full-Stack Software and Cybersecurity Developer</h3>
+<h4 align="center">With 5 Years of Python, 1 Year Professionally of Java, and 16 years of Lua, I'm a Full-Stack Software and Cybersecurity Developer!</h4>
 <div>I started programming at 12 and spent about 16 years making scripts in Lua. I additionally have worked at the kernel level in C and on small projects in C#, C++, Kotlin, and various SQL systems. I like to design video games in my free time. I've worked extensively with various forensic tools and in other cybersecurity areas. I'm looking to continue my career in a place that promotes learning and has room for advancement.</div> 
 <h3 align="center" style="margin: 5px 10px;">GitHub Info</h3> 
 
