@@ -10,7 +10,7 @@
 </div>  
 
 <h3>In development (as of 8/27/23): </h3>
-<div>Creatures of Habbitt (Puzzle RPG) [195 days]</div>
+<div>Creatures of Habbitt (Puzzle RPG) [205 days]</div>
 
 <h3 align="center">Tools I'm Familiar With:</h3>
 <div>Languages:</div>
