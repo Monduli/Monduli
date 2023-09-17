@@ -4,12 +4,6 @@
 <div>Currently, I am currently working in an unofficial position doing QA freelance work for an indie game company.</div>
 <h3 align="center" style="margin: 5px 10px;">GitHub Info</h3> 
 
-<p align="center">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Monduli&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</p>
-</div>  
-
 <h3>In development (as of 8/27/23): </h3>
 <div>Creatures of Habbitt (Puzzle RPG) [205 days]</div>
 
