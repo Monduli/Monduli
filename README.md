@@ -15,6 +15,6 @@
 <div>Preferred IDEs:</div>
 <ul>Visual Studio Code, IDEA</ul>
 <div>Degrees / Certificates:</div>
-<ul>Bachelor's of Science in Computer Science - Oregon State University (GPA 3.92)</ul>
-<ul>Certification in Cybersecurity - Oregon State University (GPA 4.0)</ul>
+<ul>Bachelor's of Science in Computer Science - Oregon State University (GPA 3.92, Summa Cum Laude, Salutatorian)</ul>
+<ul>Certification in Cybersecurity - Oregon State University (GPA 3.95)</ul>
 <ul>Bachelor's of Science in Criminal Justice - California State University, Sacramento</ul>
