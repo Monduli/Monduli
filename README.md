@@ -9,7 +9,7 @@
 
 <h3 align="center">Tools I'm Familiar With:</h3>
 <div>Languages:</div>
-<ul>Python, Java, C, C++, C#, Rust, JavaScript, SQL</ul>
+<ul><b>Python</b>, Java, C, C++, C#, Rust, JavaScript, SQL</ul>
 <div>Frameworks and Utilities:</div>
 <ul>Suricata, Yara, Wireshark, Nmap, Flask, Ren'Py, NIST, VMWare, IDA Pro, Kali Linux</ul>
 <div>Preferred IDEs:</div>
