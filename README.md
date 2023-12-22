@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Dan!</h1>
-<h4 align="center">Full-Stack Software and Cybersecurity Python Developer!</h4>
-<div>I have been programming for 16 years in various languages, but have focused most of my studies on Python. My professional experience with Amazon was in Java and AWS.</div>
-<div>Projects I have created in Python include a Plant Encyclopedia, a Puzzle RPG video game, a cybersecurity suite, a mapping API, a weather API, a quiz generator for employers, and various automation scripts.</div>
-<div>Currently, I am currently working in an unofficial position doing QA freelance work for an indie game company in Unity.</div>
+<h4 align="center">Full-Stack Python Developer</h4>
+<div>I have been professionally coding in Python for 5 years, but I have been coding informally in Lua for about 16 years. My professional experience with Amazon used Java and AWS.</div>
+<div>My Python experiences include a Plant Encyclopedia, a Puzzle RPG video game, a mapping API, a weather API, a quiz generator for employers, and answers for Advent of Code 2023.</div>
 
 <h3>In development: </h3>
 <div>Creatures of Habbitt (Puzzle RPG)</div>
