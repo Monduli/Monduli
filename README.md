@@ -8,7 +8,7 @@
 
 <h3 align="center">Tools I'm Familiar With:</h3>
 <div>Languages:</div>
-<ul>Professionally: <b>Python (5 years)</b>, Java (1 year professionally), Lua (16 years)</ul>
+<ul>Professionally: <b>Python (5 years)</b>, Java (1.5 years), Lua (16 years)</ul>
 <ul>Informally: C, C++, C#, Rust, JavaScript, SQL</ul>
 <div>Frameworks and Utilities:</div>
 <ul>Suricata, Yara, Wireshark, Nmap, Flask, Ren'Py, NIST, VMWare, IDA Pro, Kali Linux</ul>
