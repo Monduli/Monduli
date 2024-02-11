@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Dan!</h1>
 <h4 align="center">Full-Stack Python, Java, and AI Developer</h4>
 <div>I have been professionally coding in Python for 5 years, but I have been coding informally in Lua for about 16 years. My professional experience with Amazon used Java and AWS.</div>
 <div>My Python experiences include a Plant Encyclopedia, a Puzzle RPG video game, a mapping API, a weather API, a quiz generator for employers, and answers for Advent of Code 2023.</div>
