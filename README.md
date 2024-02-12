@@ -3,7 +3,7 @@
 <div>My Python experiences include a Plant Encyclopedia, a Puzzle RPG video game, a mapping API, a weather API, a quiz generator for employers, and answers for Advent of Code 2023.</div>
 
 <h3>In development: </h3>
-<div>Creatures of Habbitt (Puzzle RPG)</div>
+<div>Creatures of Habbitt (Rhythm RPG)</div>
 
 <h3 align="center">Tools I'm Familiar With:</h3>
 <div>Languages:</div>
