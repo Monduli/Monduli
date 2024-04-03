@@ -16,7 +16,7 @@ Currently, I work as an AI annotator and full-stack software developer.
 
 While I have not extensively coded in Lua, I interacted with premade Lua scripts for about 3 years when I was 12 years old, marking the beginning of my programming journey in 2007.
 
-### Projects in Development
+### Notable Projects in Development
 - Creatures of Habbitt (Rhythm RPG)
 
 ### Tools I'm Familiar With
