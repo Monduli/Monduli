@@ -1,4 +1,5 @@
-## Python, Java, and AI Developer
+# Game Developer - Godot
+## Professional Experience in Python, Java, AI Development
 
 I started coding in Python in January 2020 and it has become my main programming language. I have experience with various Python projects, including:
 - Plant Encyclopedia
@@ -12,7 +13,7 @@ In June 2022, I began learning Java as my secondary language. I gained professio
 
 I have also worked on projects using C and Rust for about 3 months as part of my coursework. Additionally, I have been learning the Godot language since September of last year for game development.
 
-Currently, I work as an AI annotator and full-stack software developer.
+Currently, I work as a game developer, AI annotator, and full-stack software developer.
 
 While I have not extensively coded in Lua, I interacted with premade Lua scripts for about 3 years when I was 12 years old, marking the beginning of my programming journey in 2007.
 
